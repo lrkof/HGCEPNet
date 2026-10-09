@@ -2,7 +2,10 @@
 "Code for Hybrid_Graph Convolutional Network Enhanced Expectation Propagation for MIMO Detection"
 # Attribution
 The core code originates from [GCEPNet](https://github.com/wzzlcss/GCEPNet)
-# Citation
+## Citation
+Please consider citing our works in your publications, if our findings help your research.
+
+```bibtex
 @article{li2026hybrid,
   title={Hybrid Graph Convolutional Network Enhanced Expectation Propagation for MIMO Detection},
   author={Li, Rui and Song, Jian and Lei, Shiwen and Wang, Qingwang and Shen, Tao},
@@ -10,3 +13,4 @@ The core code originates from [GCEPNet](https://github.com/wzzlcss/GCEPNet)
   year={2026},
   publisher={IEEE}
 }
+```
