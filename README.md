@@ -15,6 +15,4 @@ Please consider citing our works in your publications, if our findings help your
   publisher={IEEE}
 }
 ```
-# Contact
-For any question about our paper or code, please email [lrkofzzz@163.com](liruixz@stu.kust.edu.cn
-)
+
