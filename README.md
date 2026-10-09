@@ -1,12 +1,6 @@
 # HGCEPNet
 "Code for Hybrid_Graph Convolutional Network Enhanced Expectation Propagation for MIMO Detection"
 ![](images/HGCEPNet.jpg)
-# Performence
-<div align="center">
-<img src="https://github.com/lrkof/HGCEPNet/tree/main/images/ser_iid_16x16_16qam.png" width="200">
-<img src="https://github.com/lrkof/HGCEPNet/tree/main/images/ser_iid_32x32_16qam.png" width="200">
-<img src="https://github.com/lrkof/HGCEPNet/tree/main/images/ser_correlated_16x16_64qam.png" width="200">
-</div>
 # Attribution
 The core code originates from [GCEPNet](https://github.com/wzzlcss/GCEPNet)
 # Citation
