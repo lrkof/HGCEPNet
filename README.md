@@ -2,7 +2,7 @@
 "Code for Hybrid_Graph Convolutional Network Enhanced Expectation Propagation for MIMO Detection"
 ![](images/HGCEPNet.jpg)
 # Performence
-![](images/ser_correlated_16x16_64qam.jpg)
+![$16\times16$ 64-QAM system with 64-QAM under correlated channel](images/ser_correlated_16x16_64qam.png)
 # Attribution
 The core code originates from [GCEPNet](https://github.com/wzzlcss/GCEPNet)
 # Citation
